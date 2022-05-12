@@ -21,7 +21,8 @@
 <img align="right" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=790b7611333c32e123eb49173f4c7c713ce9e50a56285027&rid=giphy.gif&ct=g" width="40%"/>
   <br>
 
-- 💼  <samp>Currently working at Actia Engineering Services (since August 2019) 
+- 💼  <samp>Currently working at Sofia Technologies (since February 2022) 
+- 💼  <samp>worked at Actia Engineering Services (from August 2019 to February 2022) 
 - 🎓 <samp>Software Engineering Diploma from ESPRIT University(June 2019)
 - :man_technologist: <samp>I’m looking for new opportunities.
 </div>
@@ -36,6 +37,7 @@
 
 <h4>Others</h4>
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
