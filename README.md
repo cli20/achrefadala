@@ -21,7 +21,8 @@
 <img align="right" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=790b7611333c32e123eb49173f4c7c713ce9e50a56285027&rid=giphy.gif&ct=g" width="40%"/>
   <br>
 
-- 💼  <samp>Currently working at Actia Engineering Services (since August 2019) 
+- 💼  <samp>Currently working at Sofia Technologies (since February 2022) 
+- 💼  <samp>Previously worked at Actia Engineering Services (From 08/2019 to 02/2022) 
 - 🎓 <samp>Software Engineering Diploma from ESPRIT University(June 2019)
 - :man_technologist: <samp>I’m looking for new opportunities.
 </div>
@@ -36,6 +37,9 @@
 
 <h4>Others</h4>
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -57,7 +61,9 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
